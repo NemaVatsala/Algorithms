@@ -1,5 +1,5 @@
 # Algorithms
-A repository to add implementations of algorithms learnt in the course ECS 310: Algorithms 
+A repository to add implementations of various Data structures and algorithms
 
 # References
 1. Introduction to Algorithms: CLRS
